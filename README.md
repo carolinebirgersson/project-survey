@@ -2,6 +2,11 @@
 
 The brief for this weeks project was to create a survey using React, with a summary of the user's choice. I created a survey of "Daily Notes", like a short diary for daily reflections.
 
+I learned:
+– What the purpose of state in React is.
+– How to use the useState hook in React.
+– How to connect HTML form inputs to state. 
+
 ## The problem
 
 If I had more time I would have created a function that shows today's date + changing weather icon depending on the user's choice. 
